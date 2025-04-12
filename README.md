@@ -75,4 +75,4 @@
 You can clone this template using the following command:
 
 ```bash
-git clone https://github.com/Codewithhaider29/we-voice-template.git
+git clone https://github.com/Codewithhaider29/Voice-Generation-and-Translation.git
